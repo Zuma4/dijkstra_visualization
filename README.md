@@ -1,2 +1,2 @@
 # dijkstra_visualization
-simple graphical implementation dijkstra algorithm
+simple graphical implementation for dijkstra algorithm
