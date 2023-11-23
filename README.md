@@ -6,4 +6,4 @@ simple graphical implementation for Dijkstra algorithm
 ### used libs
 
 SFML for graphics
-and some other STL headers
+and some other std:: headers
